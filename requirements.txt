@@ -1,0 +1,4 @@
+requests
+python-dotenv
+starlink-grpc-core
+psutil
