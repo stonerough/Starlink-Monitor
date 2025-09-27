@@ -70,8 +70,8 @@ Notes: No specific notes.
 
 ```bash
 # Clone the repository (or copy files)
-git clone <repository-url>
-cd starlink-enhanced-monitoring
+git clone https://github.com/stonerough/Starlink-Monitor
+cd Starlink-Monitor
 
 # Create a Python Virtual Environment
 python3 -m venv venv
